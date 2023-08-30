@@ -1,0 +1,922 @@
+.logo{
+    position:  absolute;
+    width: 288px;
+    height:  104px;
+    margin-top:  32px;
+    margin-left: 32px;
+}
+
+.chanel{
+    position: absolute;
+    margin-left:664px;
+    margin-top: 40px;
+}
+
+.main-menu
+{
+    position:  absolute;
+    margin-top: 144px;
+    font-size: 24px;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav_body
+{
+    position: absolute;
+    border: solid 1px black;
+    width:  100%;
+    height:  40px;
+    background-color: black;
+    margin-top: 160px;
+    margin-left: -8px;
+}
+
+li{
+    display: inline;
+    padding: 136px;
+    color: white;
+    font-family: Arial;
+
+
+}
+
+
+.undernav{
+    position:  absolute;
+    border: solid black 1px;
+    background-color:  red;
+    width: 200px;
+    height: 5px;
+    margin-top: 200px;
+    margin-left: -8px;
+    width:  100%;
+}
+
+.MainPageImage{
+    position:  absolute;
+    margin-top: 207px;
+    margin-left: -8px;
+    width: 100%;
+    text-align: center;
+}
+
+.servicesBtn
+{
+    position: absolute;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 392px;
+    font-size: 24px;
+    margin-top: 166px;
+    color: white;
+    width: 168px;
+}
+
+.servicesBtn:hover
+{
+    position: absolute;
+    background-color: grey;
+    border: solid 1px black;
+    margin-left: 392px;
+    font-size: 24px;
+    margin-top: 160px;
+    color: white;
+    width: 168px;
+    height: 40px;
+}
+
+.portBtn
+{
+    position: absolute;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 760px;
+    font-size: 24px;
+    margin-top: 166px;
+    color: white;
+    width: 168px;
+}
+
+.portBtn:hover
+{
+    position: absolute;
+    background-color: grey;
+    border: solid 1px black;
+    margin-left: 760px;
+    font-size: 24px;
+    margin-top: 166px;
+    height: 40px;
+    margin-top: 160px;
+    color: white;
+    width: 168px;
+}
+
+.newsBtn
+{
+    position: absolute;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 1160px;
+    font-size: 24px;
+    margin-top: 166px;
+    color: white;
+    width:  168px;
+}
+
+.newsBtn:hover
+{
+    position: absolute;
+    background-color: grey;
+    border: solid 1px black;
+    margin-left: 1160px;
+    font-size: 24px;
+    height: 40px;
+    margin-top: 160px;
+    color: white;
+    width:  168px;
+}
+
+.aboutBtn
+{
+    position: absolute;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 64px;
+    font-size: 24px;
+    margin-top: 166px;
+    color: white;
+    width:  168px;
+}
+
+.aboutBtn:hover
+{
+    position: absolute;
+    background-color: grey;
+    border: solid 1px black;
+    margin-left: 64px;
+    font-size: 24px;
+    height: 40px;
+    margin-top: 160px;
+    color: white;
+    width: 168px;
+}
+
+
+.contactBtn
+{
+    position: absolute;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 1608px;
+    font-size: 24px;
+    margin-top: 166px;
+    color: white;
+    width:  168px;
+}
+
+.contactBtn:hover
+{
+    position: absolute;
+    background-color: grey;
+    border: solid 1px black;
+    margin-left: 1608px;
+    font-size: 24px;
+    margin-top: 160px;
+    height: 40px;
+    color: white;
+    width:  168px;
+}
+
+.SashaBase1
+{
+    position: absolute;
+    margin-top:  4664px;
+    width: 1923px;
+    height: 200px;
+}
+
+.btn1
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 464px;
+    margin-left: 64px;
+}
+
+.btn2
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 464px;
+    margin-left: 520px;
+}
+
+.btn3
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 464px;
+    margin-left: 1000px;
+}
+
+.btn4
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 464px;
+    margin-left: 1480px;
+}
+
+.btn5
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 884px;
+    margin-left: 64px;
+}
+
+.btn6
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 884px;
+    margin-left: 520px;
+}
+
+.btn7
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 884px;
+    margin-left: 1000px;
+}
+
+.btn8
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 884px;
+    margin-left: 1480px;
+}
+
+.btn9
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1304px;
+    margin-left: 64px;
+}
+
+.btn10
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1304px;
+    margin-left: 520px;
+}
+
+.btn11
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1304px;
+    margin-left: 1000px;
+}
+
+.btn12
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1304px;
+    margin-left: 1480px;
+}
+
+.btn13
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1724px;
+    margin-left: 64px;
+}
+
+.btn14
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1724px;
+    margin-left: 520px;
+}
+
+.btn15
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1724px;
+    margin-left: 1000px;
+}
+
+.btn16
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 1724px;
+    margin-left: 1480px;
+}
+
+.btn17
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2144px;
+    margin-left: 64px;
+}
+
+.btn18
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2144px;
+    margin-left: 520px;
+}
+
+.btn19
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2144px;
+    margin-left: 1000px;
+}
+
+.btn20
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2144px;
+    margin-left: 1480px;
+}
+
+.btn21
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2564px;
+    margin-left: 64px;
+}
+
+.btn22
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2564px;
+    margin-left: 520px;
+}
+
+.btn23
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2564px;
+    margin-left: 1000px;
+}
+
+.btn24
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2564px;
+    margin-left: 1480px;
+}
+
+.btn25
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2984px;
+    margin-left: 64px;
+}
+
+.btn26
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2984px;
+    margin-left: 520px;
+}
+
+.btn27
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2984px;
+    margin-left: 1000px;
+}
+
+.btn28
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 2984px;
+    margin-left: 1480px;
+}
+
+.btn29
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3404px;
+    margin-left: 64px;
+}
+
+.btn30
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3404px;
+    margin-left: 520px;
+}
+
+.btn31
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3404px;
+    margin-left: 1000px;
+}
+
+.btn32
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3404px;
+    margin-left: 1480px;
+}
+
+.btn33
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3824px;
+    margin-left: 64px;
+}
+
+.btn34
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3824px;
+    margin-left: 520px;
+}
+
+.btn35
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3824px;
+    margin-left: 1000px;
+}
+
+.btn36
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 3824px;
+    margin-left: 1480px;
+}
+
+.btn37
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 4244px;
+    margin-left: 64px;
+}
+
+.btn38
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 4244px;
+    margin-left: 520px;
+}
+
+.btn39
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 4244px;
+    margin-left: 1000px;
+}
+
+.btn40
+{
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    margin-top: 4244px;
+    margin-left: 1480px;
+}
+
+.FigureImg2{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 473px;
+    margin-left: 74px;
+}
+
+.FigureImg3{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 473px;
+    margin-left: 530px;
+}
+
+.FigureImg4{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 473px;
+    margin-left: 1010px;
+}
+
+.FigureImg5{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 473px;
+    margin-left: 1490px;
+}
+
+.FigureImg6{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 893px;
+    margin-left: 74px;
+}
+
+.FigureImg7{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 893px;
+    margin-left: 530px;
+}
+
+.FigureImg8{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 893px;
+    margin-left: 1010px;
+}
+
+.FigureImg9{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 893px;
+    margin-left: 1490px;
+}
+
+.FigureImg10{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1313px;
+    margin-left: 74px;
+}
+
+.FigureImg11{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1313px;
+    margin-left: 530px;
+}
+
+.FigureImg12{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1313px;
+    margin-left: 1010px;
+}
+
+.FigureImg13{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1313px;
+    margin-left: 1490px;
+}
+
+.FigureImg14{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1733px;
+    margin-left: 74px;
+}
+
+.FigureImg15{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1733px;
+    margin-left: 530px;
+}
+
+.FigureImg16{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1733px;
+    margin-left: 1010px;
+}
+
+.FigureImg17{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 1733px;
+    margin-left: 1490px;
+}
+
+.FigureImg18{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2153px;
+    margin-left: 74px;
+}
+
+.FigureImg19{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2153px;
+    margin-left: 530px;
+}
+
+.FigureImg20{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2153px;
+    margin-left: 1010px;
+}
+
+.FigureImg21{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2153px;
+    margin-left: 1490px;
+}
+
+.FigureImg22{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2573px;
+    margin-left: 74px;
+}
+
+.FigureImg23{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2573px;
+    margin-left: 530px;
+}
+
+.FigureImg24{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2573px;
+    margin-left: 1010px;
+}
+
+.FigureImg25{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2573px;
+    margin-left: 1490px;
+}
+
+.FigureImg26{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2993px;
+    margin-left: 74px;
+}
+
+.FigureImg27{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2993px;
+    margin-left: 530px;
+}
+
+.FigureImg28{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2993px;
+    margin-left: 1010px;
+}
+
+.FigureImg29{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 2993px;
+    margin-left: 1490px;
+}
+
+.FigureImg30{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3413px;
+    margin-left: 74px;
+}
+
+.FigureImg31{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3413px;
+    margin-left: 530px;
+}
+
+.FigureImg32{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3413px;
+    margin-left: 1010px;
+}
+
+.FigureImg33{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3413px;
+    margin-left: 1490px;
+}
+
+.FigureImg34{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3833px;
+    margin-left: 74px;
+}
+
+.FigureImg35{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3833px;
+    margin-left: 530px;
+}
+
+.FigureImg36{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3833px;
+    margin-left: 1010px;
+}
+
+.FigureImg37{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 3833px;
+    margin-left: 1490px;
+}
+
+.FigureImg38{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 4253px;
+    margin-left: 74px;
+}
+
+.FigureImg39{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 4253px;
+    margin-left: 530px;
+}
+
+.FigureImg40{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 4253px;
+    margin-left: 1010px;
+}
+
+.FigureImg41{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    border: 1px black solid;
+    margin-top: 4253px;
+    margin-left: 1490px;
+}
+
+
